@@ -1,0 +1,7 @@
+C:\Users\Capgemini\source\repos\HackerRank_Mercado_LIvre\HackerRank_Mercado_LIvre\bin\Debug\HackerRank_Mercado_LIvre.exe.config
+C:\Users\Capgemini\source\repos\HackerRank_Mercado_LIvre\HackerRank_Mercado_LIvre\bin\Debug\HackerRank_Mercado_LIvre.exe
+C:\Users\Capgemini\source\repos\HackerRank_Mercado_LIvre\HackerRank_Mercado_LIvre\bin\Debug\HackerRank_Mercado_LIvre.pdb
+C:\Users\Capgemini\source\repos\HackerRank_Mercado_LIvre\HackerRank_Mercado_LIvre\obj\Debug\HackerRank_Mercado_LIvre.csprojAssemblyReference.cache
+C:\Users\Capgemini\source\repos\HackerRank_Mercado_LIvre\HackerRank_Mercado_LIvre\obj\Debug\HackerRank_Mercado_LIvre.csproj.CoreCompileInputs.cache
+C:\Users\Capgemini\source\repos\HackerRank_Mercado_LIvre\HackerRank_Mercado_LIvre\obj\Debug\HackerRank_Mercado_LIvre.exe
+C:\Users\Capgemini\source\repos\HackerRank_Mercado_LIvre\HackerRank_Mercado_LIvre\obj\Debug\HackerRank_Mercado_LIvre.pdb
